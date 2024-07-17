@@ -34,6 +34,7 @@ Here are some potential enhancements and features that can be added to the Suppl
 
 3. **Automated Notifications**:
    - Implement a system to send automated notifications to users when specific events occur (e.g., when a product moves to a new stage, when a new certification is added, or when a product reaches the consumer).
+
    - 4. **Smart Contracts for Payments**:
    - Implement smart contracts to handle payments at different stages of the supply chain. For example, automatic payment release when a product reaches a certain stage or is certified.
      
