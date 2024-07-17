@@ -35,6 +35,17 @@ Here are some potential enhancements and features that can be added to the Suppl
 3. **Automated Notifications**:
    - Implement a system to send automated notifications to users when specific events occur (e.g., when a product moves to a new stage, when a new certification is added, or when a product reaches the consumer).
 
-   - 4. **Smart Contracts for Payments**:
+4. **Integration with IoT Devices**:
+   - Integrate IoT devices to automatically update the blockchain with real-time data (e.g., temperature, humidity) during transportation and storage stages.
+
+5. **Smart Contracts for Payments**:
    - Implement smart contracts to handle payments at different stages of the supply chain. For example, automatic payment release when a product reaches a certain stage or is certified.
-     
+
+6. **Multi-Chain Support**:
+   - Expand the system to support interoperability with other blockchain platforms, allowing for a broader range of integrations and use cases.
+
+7. **Product Recalls and Alerts**:
+   - Add functionality to manage product recalls and send alerts to all relevant parties in the supply chain in case of issues such as contamination or quality control failures.
+
+8. **Consumer Verification Interface**:
+   - Develop a web or mobile application that allows consumers to scan a QR code on the product packaging to view the complete traceability information and certifications directly from the blockchain.
